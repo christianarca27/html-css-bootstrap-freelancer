@@ -32,6 +32,7 @@ main #jumbo #profile-pic {
 }
 /* /jumbo */
 
+/* portfolio */
 main #portfolio {
     color: black;
 }
@@ -41,4 +42,11 @@ main #portfolio .container .row .col .col-img {
     height: 300px;
     /* debug */
 }
+/* /portfolio */
+
+/* about */
+main #about {
+    background-color: #1abc9c;
+}
+/* /about */
 /* /main */
