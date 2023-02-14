@@ -29,10 +29,7 @@ header #jumbo {
 }
 
 header #jumbo #profile-pic {
-    background-color: darkblue;
-    width: 300px;
-    height: 300px;
-    /* debug */
+    max-width: 300px;
 }
 /* /jumbo */
 /* /header */
@@ -40,9 +37,7 @@ header #jumbo #profile-pic {
 /* main */
 /* portfolio */
 main #portfolio .col-inner {
-    background-color: darkblue;
-    height: 300px;
-    /* debug */
+    overflow: hidden;
 }
 /* /portfolio */
 
