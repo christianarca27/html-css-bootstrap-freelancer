@@ -20,6 +20,13 @@ label, .form-control::placeholder {
     color: #1abc9c;
 }
 
+.social-icon-wrapper {
+    width: 2.5em;
+    height: 2.5em;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
 /* header */
 /* nav */
 nav {
