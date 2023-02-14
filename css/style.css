@@ -16,6 +16,10 @@ label, .form-control::placeholder {
     background-color: #1abc9c;
 }
 
+.green-text {
+    color: #1abc9c;
+}
+
 /* header */
 /* nav */
 nav {
