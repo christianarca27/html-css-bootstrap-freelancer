@@ -27,44 +27,14 @@ label, .form-control::placeholder {
     border-radius: 50%;
 }
 
-/* header */
-/* nav */
-nav {
+nav, footer #footer-bottom {
     background-color: #2c3e50;
 }
-/* /nav */
 
-/* jumbo */
-header #jumbo {
+header #jumbo, main #about {
     background-color: #1abc9c;
 }
 
-header #jumbo #profile-pic {
-    max-width: 300px;
-}
-/* /jumbo */
-/* /header */
-
-/* main */
-/* portfolio */
-main #portfolio .col-inner {
-    overflow: hidden;
-}
-/* /portfolio */
-
-/* about */
-main #about {
-    background-color: #1abc9c;
-}
-/* /about */
-/* /main */
-
-/* footer */
 footer #footer-top {
     background-color: #3a546d;
 }
-
-footer #footer-bottom {
-    background-color: #2c3e50;
-}
-/* /footer */
